@@ -18,3 +18,5 @@ Ark's 1.19 ModMenu + VeinMiner
 8. Left click to toggle the module
 
 9. Right click to open the settings for the module
+
+10. Setup a keybind for VeinMine (so it doesn't colide with other keybinds)
